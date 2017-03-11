@@ -1,0 +1,2 @@
+serviceClass: com.dtdm.client.GreetingService
+path: 6D7140F11CF83BFB547EBEA50E5FDE42.gwt.rpc

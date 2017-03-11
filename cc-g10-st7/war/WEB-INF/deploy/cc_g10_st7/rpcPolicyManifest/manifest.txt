@@ -1,0 +1,3 @@
+# Module cc_g10_st7
+# RPC service class, partial path of RPC policy file
+com.dtdm.client.GreetingService, 6D7140F11CF83BFB547EBEA50E5FDE42.gwt.rpc
